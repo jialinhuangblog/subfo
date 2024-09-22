@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <style>
-        .logo { font: bold 52px 'Arial'; letter-spacing: -2px;}
+        .logo { font: bold 49px 'Arial'; letter-spacing: -2px;}
     </style>
     <text x="-2" y="60" class="logo" fill="#FF1493">0://</text>
 </svg>
